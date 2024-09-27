@@ -1,0 +1,12 @@
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
+
+
+#EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",1047 Astro Warna
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linears-playback.astro.com.my/vsg/419ZKMQv5UhnrprpIKOVzMjbVkSkryqjgUGC0F9lzBZ48=gYfh/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+
+
+
+#EXTM3U billed-msg="😎 🇲🇾🇵🇸 HAK MILIK AMBO P3$∆ | (PERSONAL USE) | 🇵🇸🇲🇾 😎"
