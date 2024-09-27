@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U 
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440"
 
 
 #EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",107 Astro Warna
