@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
+
+
+#EXTINF:-1 tvg-id="Astro Citra" ch-number="107" tvg-id="AstroCitra" ch-number="107" http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png,Astro Citra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://linears-playback.astro.com.my/vsg/41hDqEhOW_USoV-ye8RIWWZW5Ukl952MQLyvC_XJfHdOA=Gc57/dash-wv/jitp-dashisowm/2700/default_ott.mpd
