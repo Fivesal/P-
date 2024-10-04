@@ -5,14 +5,16 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/41up2QELZ9PTbgmmbxT6cb4tbVzTHaF7R8d_k24YEMVhc=HHXd/dash-wv/jitp-linearwm/1004/default.mpd
 https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ3VDUo4xQ2cNsqztsDGGKD8=ilh7/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41up2QELZ9PTbgmmbxT6cb4tbVzTHaF7R8d_k24YEMVhc=HHXd/dash-wv/jitp-linearwm/1004/default.mpd
+
 
 w3
 #EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linears-playback.astro.com.my/vsg/419ZKMQv5UhnrprpIKOVzMjVxohHN4-7yObBW_5mDAIDU=fenk/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/411Q7-3rkg3qqqbq1xZnpOOqysgm-n1fCw33AtR62weR8=AJhv/dash-wv/jitp-dashisowm/2402/default.mpd
 
 ©4
