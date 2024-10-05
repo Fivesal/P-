@@ -11,8 +11,7 @@ https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="@$$p",812 Astro Supersport 2
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41zqXLG3YfHqKtpj8TJOeHecYP5zNl0LxiPjd9dbE0b9U=vQge/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=af6822d4-c84a-4f9a-9030-767922348357
-
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41zqXLG3YfHqKtpj8TJOeHeX2uugfvuxtIoqN8ZQai6No=C7q-/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=a51bd1ff-f31a-476c-ab3a-d090a56e246c
 
       
 #KODIPROP:inputstream.adaptive.license_type=clearkey
