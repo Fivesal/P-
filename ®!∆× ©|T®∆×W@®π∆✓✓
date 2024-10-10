@@ -5,15 +5,14 @@
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tinyurl.com/123RIANGRIA
 https://go.munzstore.xyz/riaz.mpd
-
+https://tinyurl.com/123RIANGRIA
 
 3 warna
 #EXTINF:-1 tvg-id="Astro Warna" ch-number="107" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-
+https://tinyurl.com/123WARNA
 https://go.munzstore.xyz/warnaz.mpd
 
 4 citra
@@ -21,6 +20,7 @@ https://go.munzstore.xyz/warnaz.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 https://go.munzstore.xyz/citraz.mpd
+https://tinyurl.com/123CITRA
 
 5 prima
 #EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima 
@@ -28,5 +28,8 @@ https://go.munzstore.xyz/citraz.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 
 https://go.munzstore.xyz/primaz.mpd
+https://tinyurl.com/123PRIMA
+
+
 
 #EXTM3U billed-msg="😎 🇲🇾🇵🇸 HAK MILIK AMBO P3$∆ | (PERSONAL USE) | 🇵🇸🇲🇾 😎"
